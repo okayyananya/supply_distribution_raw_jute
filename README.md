@@ -28,8 +28,3 @@ It was completed as part of my Public Data Research internship at **Factly Media
 | Web Table | Output in Jupyter |
 |-----------|-------------------|
 | ![](images/screenshot_website.png) | ![](images/screenshot_output.png) |
-
-## 🛠️ Setup Instructions
-
-```bash
-pip install -r requirements.txt
